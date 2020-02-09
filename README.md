@@ -1,3 +1,3 @@
 # Computer-Graphics
 
-A module completed through college and assitance through Sonar Systems youtube tutorials!
+A module completed through college and project assitance through Sonar Systems youtube tutorials!
